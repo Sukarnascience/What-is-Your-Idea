@@ -4,11 +4,9 @@ Hai, Hi it's an open-source Repository where You will see different cool ideas/p
 1. The Project/idea which you will give it can be any language except Java, C/C++, Python.
 if you have Cool Project/idea in:-
 
-a. Java   https://github.com/Sukarnascience/What-is-Your-Idea-in-Java 
-
-b. Python https://github.com/Sukarnascience/What-is-Your-Idea-in-Python 
-
-c. C/C++  https://github.com/Sukarnascience/What-is-Your-Idea-in-Cpp
+  a. [Java](https://github.com/Sukarnascience/What-is-Your-Idea-in-Java)
+  b. [Python](https://github.com/Sukarnascience/What-is-Your-Idea-in-Python)
+  c. [C/C++](https://github.com/Sukarnascience/What-is-Your-Idea-in-Cpp)
 
 2. At the beginning of the Code just put a comment like- " My Name is:- 'Your Name' ".
 3. if you have followed these 2 things you are good to go.
